@@ -8,6 +8,8 @@ For more details on using a datastore in MATLAB see https://www.mathworks.com/he
 
 View interactive instructions by opening _AzureBlobStoreFileStoreExamples.mlx_ in MATLAB desktop, or view the html static export of this at _AzureBlobStoreFileStoreExamples.html_
 
+Add the folder AzureGzipFileDataStore to your project or MATLAB path to gain access to the functions.
+
 ## Contact
 
 andy.sprague44@gmail.com
